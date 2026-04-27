@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'onboard.dart'; 
+import 'onboarding_1.dart';
 
 void main() {
   runApp(const MyApp());
@@ -10,14 +10,9 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
+    return const MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Music Kids',
-      theme: ThemeData(
-        colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
-      ),
-
-      home: const OnboardPage(),
-    ); 
+      home: Onboarding1(),
+    );
   }
 }
