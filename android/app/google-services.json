@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "727478519938",
+    "project_id": "pemob2026",
+    "storage_bucket": "pemob2026.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727478519938:android:cee194052c0da3c152cc9b",
+        "android_client_info": {
+          "package_name": "com.example.alat_musik"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlOMBU9qYED7491qQbGLJnDeof5vHhYTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
